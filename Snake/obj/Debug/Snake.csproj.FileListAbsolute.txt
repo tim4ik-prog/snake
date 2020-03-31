@@ -1,0 +1,7 @@
+Z:\SmartGit\bin\snake.git\Snake\bin\Debug\Snake.exe.config
+Z:\SmartGit\bin\snake.git\Snake\bin\Debug\Snake.exe
+Z:\SmartGit\bin\snake.git\Snake\bin\Debug\Snake.pdb
+Z:\SmartGit\bin\snake.git\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+Z:\SmartGit\bin\snake.git\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+Z:\SmartGit\bin\snake.git\Snake\obj\Debug\Snake.exe
+Z:\SmartGit\bin\snake.git\Snake\obj\Debug\Snake.pdb
